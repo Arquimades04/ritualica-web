@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f02e0c1.css",
-    "main.js": "/static/js/main.a1c9c182.js",
-    "static/js/488.9cad94fd.chunk.js": "/static/js/488.9cad94fd.chunk.js",
-    "static/media/homeBackground.png": "/static/media/homeBackground.e0d6555cd56f6987c5be.png",
-    "static/media/SIMSUN.ttf": "/static/media/SIMSUN.88854ac029db7735c9e4.ttf",
-    "static/media/gallery2.png": "/static/media/gallery2.e20c7f7a28359040a17e.png",
-    "static/media/gallery3.png": "/static/media/gallery3.9437effb63a889ad047e.png",
-    "static/media/gallery1.jpg": "/static/media/gallery1.e4e725cd7737934f6f0c.jpg",
-    "static/media/gameTitle.png": "/static/media/gameTitle.5a3e89315fb3023d8e9d.png",
-    "static/media/acorn-archimedes.ttf": "/static/media/acorn-archimedes.b9455491a82468f55542.ttf",
-    "index.html": "/index.html",
-    "main.5f02e0c1.css.map": "/static/css/main.5f02e0c1.css.map",
-    "main.a1c9c182.js.map": "/static/js/main.a1c9c182.js.map",
-    "488.9cad94fd.chunk.js.map": "/static/js/488.9cad94fd.chunk.js.map"
+    "main.css": "/ritualica-web/static/css/main.ec10f75b.css",
+    "main.js": "/ritualica-web/static/js/main.229ea294.js",
+    "static/js/488.9cad94fd.chunk.js": "/ritualica-web/static/js/488.9cad94fd.chunk.js",
+    "static/media/homeBackground.png": "/ritualica-web/static/media/homeBackground.e0d6555cd56f6987c5be.png",
+    "static/media/SIMSUN.ttf": "/ritualica-web/static/media/SIMSUN.88854ac029db7735c9e4.ttf",
+    "static/media/gallery2.png": "/ritualica-web/static/media/gallery2.e20c7f7a28359040a17e.png",
+    "static/media/gallery3.png": "/ritualica-web/static/media/gallery3.9437effb63a889ad047e.png",
+    "static/media/gallery1.jpg": "/ritualica-web/static/media/gallery1.e4e725cd7737934f6f0c.jpg",
+    "static/media/gameTitle.png": "/ritualica-web/static/media/gameTitle.5a3e89315fb3023d8e9d.png",
+    "static/media/acorn-archimedes.ttf": "/ritualica-web/static/media/acorn-archimedes.b9455491a82468f55542.ttf",
+    "index.html": "/ritualica-web/index.html",
+    "main.ec10f75b.css.map": "/ritualica-web/static/css/main.ec10f75b.css.map",
+    "main.229ea294.js.map": "/ritualica-web/static/js/main.229ea294.js.map",
+    "488.9cad94fd.chunk.js.map": "/ritualica-web/static/js/488.9cad94fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f02e0c1.css",
-    "static/js/main.a1c9c182.js"
+    "static/css/main.ec10f75b.css",
+    "static/js/main.229ea294.js"
   ]
 }
